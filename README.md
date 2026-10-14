@@ -19,3 +19,7 @@ Collaboration Log:
 Partner Name: Akash Babaji  Built greet() function together.
 
 Learnings: • Using GitLens extension in VS Code to inspect commit history, file blame, and line-by-line change authorship. • Using Live Share extension to start and join a real-time collaborative coding session. • Collaboratively write, review, and commit code with a peer, then verify authorship and history using GitLens.
+## Projects
+- **Market Mate:** A web platform to connect students with local merchant campaigns.
+
+
